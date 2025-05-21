@@ -4,4 +4,6 @@ marks_user = int(input("Enter your marks: "))
 
 if marks_user == 75:
     print("A")
-    
+else:
+    if marks_user == 65:
+        print("B")
