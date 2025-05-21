@@ -7,3 +7,6 @@ if marks_user == 75:
 else:
     if marks_user == 65:
         print("B")
+    else:
+        if marks_user == 55:
+            print("C")
