@@ -10,3 +10,6 @@ else:
     else:
         if marks_user == 55:
             print("C")
+        else:
+            if marks_user == 35:
+                print("S")
