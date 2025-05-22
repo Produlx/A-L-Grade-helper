@@ -17,5 +17,9 @@ else:
                 if marks_user < 35:
                     print(f'"w" try again')
 
+if marks_user >= 75:
+    Greeting = "Good_Luck"
+
+
 print(f'you got {marks_user} marks..{Greeting}')
 
