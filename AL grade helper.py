@@ -16,3 +16,6 @@ else:
             else:
                 if marks_user < 35:
                     print(f'"w" try again')
+
+print(f'you got {marks_user} marks..{Greeting}')
+
