@@ -15,4 +15,4 @@ else:
                 print("S")
             else:
                 if marks_user < 35:
-                    print("W")
+                    print(f'"w" try again')
