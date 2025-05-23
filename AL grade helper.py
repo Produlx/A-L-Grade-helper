@@ -1,5 +1,7 @@
 print("HI, i hope you have good day..")
 
+print("")
+
 marks_user = int(input("Enter your marks: "))
 
 if marks_user >= 75:
