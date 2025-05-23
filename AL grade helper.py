@@ -28,6 +28,8 @@ else:
         else:
             if marks_user >= 35:
                 Greeting = "Try harder..you can do it!"
+            else:
+                Greeting = "Forcus bn,,,u can do it"
     
 
 
