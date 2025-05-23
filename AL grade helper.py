@@ -25,6 +25,9 @@ else:
     else:
         if marks_user >= 55:
             Greeting = "Not bad"
+        else:
+            if marks_user >= 35:
+                Greeting = "Try harder..you can do it!"
     
 
 
