@@ -22,6 +22,9 @@ if marks_user >= 75:
 else:
     if marks_user >= 65:
         Greeting = "Wow"
+    else:
+        if marks_user >= 55:
+            Greeting = "Not bad"
     
 
 
