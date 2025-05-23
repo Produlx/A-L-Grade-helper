@@ -34,4 +34,5 @@ else:
 
 
 print(f'you got {marks_user} marks..{Greeting}')
+print("G'Day")
 
